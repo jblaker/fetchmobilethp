@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "823B5376-5A2B-41AC-9BFC-FE844E99E201",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:FetchMobileTHP.xcodeproj",
+        "identifier" : "E9A7E5B52DEBA6A700622E6D",
+        "name" : "FetchMobileTHPTests"
+      }
+    }
+  ],
+  "version" : 1
+}
